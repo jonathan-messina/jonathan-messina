@@ -1,7 +1,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F9FFFF&center=true&vCenter=true&multiline=true&height=200&lines=Hi+there!+%F0%9F%98%84+I'm+John!;Welcome+to+my+repos!)](https://git.io/typing-svg)
 
-<br/>
 <!--
 
 
@@ -16,6 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathan-messina&count_private=true&show_icons=true&theme=tokyonight&layout=compact&langs_count=8&exclude_repo=JAGUARETE_KAA)](https://github.com/anuraghazra/github-readme-stats)
