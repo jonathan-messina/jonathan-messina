@@ -1,7 +1,7 @@
 ### Hi there 👋
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F1F7F7&center=true&vCenter=true&lines=Hi!+%F0%9F%98%84+I'm+John!)](https://git.io/typing-svg)
 <!--
-**jonathan-messina/jonathan-messina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
