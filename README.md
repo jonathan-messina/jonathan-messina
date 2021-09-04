@@ -11,7 +11,7 @@
 <h3 align="center">A passionate FullStack JS Developer from Argentina</h3>
 <br/>
 
-- 🌱 I’m currently learning **Dart, Flutter**
+- 🌱 I’m currently learning **Php, Laravel**
 
 - 📫 How to reach me **a.jonathan.messina@gmail.com**
 
