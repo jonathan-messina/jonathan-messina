@@ -8,10 +8,10 @@
 <h1 align="center"><a align="center">
   <img align="center" src="https://readme-typing-svg.herokuapp.com?color=F9FFFF&center=true&height=100&lines=Hello+there!+%F0%9F%98%84+I'm+John!" />
 </a></h1>
-<h3 align="center">A passionate FullStack JS Developer from Argentina</h3>
+<h3 align="center">A passionate Software Developer from Argentina</h3>
 <br/>
 
-- 🌱 I’m currently learning **Php, Laravel**
+- 🌱 I’m currently learning **PHP, Laravel**
 
 - 📫 How to reach me **a.jonathan.messina@gmail.com**
 
