@@ -11,7 +11,7 @@
 <h3 align="center">A passionate Software Developer from Argentina</h3>
 <br/>
 
-- 🌱 I’m currently learning **PHP, Laravel, Vue**
+- 🌱 I’m currently learning **AWS**
 
 - 📫 How to reach me **a.jonathan.messina@gmail.com**
 
