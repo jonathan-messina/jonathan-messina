@@ -22,12 +22,6 @@
 <a href="https://linkedin.com/in/jonathan-messina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jonathan-messina" height="30" width="40" /></a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathan-messina&count_private=false&exclude_repo=JAGUARETE_KAA&show_icons=true&theme=tokyonight&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-<h2 align="center">Random Meme</h2>
-
 <!-- HTML -->
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
