@@ -54,6 +54,7 @@ const SoftwareDeveloper: DeveloperI = {
         return "https://github.com/jonathan-messina/resume";
     }
 }
+
 SoftwareDeveloper.introduction();
 SoftwareDeveloper.sayHello();
 SoftwareDeveloper.isOpenToWork();
@@ -62,6 +63,8 @@ const resume = SoftwareDeveloper.getResume();
 console.log(linkedinProfile);
 console.log(resume);
 ```
+
+output:
 ```bash
 Hi!, I'm John, I'm a Software Developer.
 Thanks for reaching out, let's build great products together!.
