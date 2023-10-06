@@ -9,7 +9,7 @@
   <img align="center" src="https://readme-typing-svg.herokuapp.com?color=F9FFFF&center=true&height=100&lines=Hello+there!+%F0%9F%98%84+I'm+John!" />
 </a></h1>
 
-<h3 align="center" >A passionate Software Developer from Argentina</h3><a href="https://linkedin.com/in/jonathan-messina" target="blank">
+<h3 align="center" >A passionate Software Developer from Argentina</h3><a href="https://linkedin.com/in/jonathan-messina" target="_blank">
 <p align="center" >  
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jonathan-messina" height="30" width="40" /></a>
 </p>
