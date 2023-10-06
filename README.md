@@ -75,8 +75,17 @@ https://github.com/jonathan-messina/resume
 
 <!-- HTML -->
 <p align="center">
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </p>
+
+<p align="center">
+   <a href="https://profile-counter.glitch.me/jonathan-messina/count.svg">
+      <img src="https://profile-counter.glitch.me/jonathan-messina/count.svg" alt="Visitor Count">
+   </a>
+</p>
+
+
+
 
 
 
