@@ -45,7 +45,7 @@ const SoftwareDeveloper: DeveloperI = {
         console.log("Thanks for reaching out, let's build great products together!.");
     },
     isOpenToWork() {
-            console.log(`Open to Work: ${this.openToWork}.`);
+        console.log(`Open to Work: ${this.openToWork}.`);
     },
     getLinkedinProfile() {
         return "https://www.linkedin.com/in/jonathan-messina";
