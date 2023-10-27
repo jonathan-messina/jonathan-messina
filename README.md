@@ -36,7 +36,7 @@ const SoftwareDeveloper: DeveloperI = {
     name: "John",
     role: "Software Developer",
     email: "a.jonathan.messina@gmail.com",
-    openToWork: true,
+    openToWork: false,
     languageSpoken: ["es-ES", "en_US"],
     introduction() {
         console.log(`Hi!, I'm ${this.name}, I'm a ${this.role}.`);
@@ -68,7 +68,7 @@ output:
 ```bash
 Hi!, I'm John, I'm a Software Developer.
 Thanks for reaching out, let's build great products together!.
-Open to Work: true.
+Open to Work: false.
 https://www.linkedin.com/in/jonathan-messina
 https://github.com/jonathan-messina/resume
 ```
